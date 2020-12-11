@@ -6,6 +6,7 @@ Bu uygulama Google OAuth ile Node.js/Express/MongoDB kullanilarak yapildi.
 Add your mongoDB URI and Google OAuth credentials to the config.env file <br> <br>
 config.env dosyasina mongoDB URI ve Google OAuth kimlik bilgilerinizi ekleyin.
 
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://storyappp.herokuapp.com/)
 ```
 # Install dependencies
 npm install
