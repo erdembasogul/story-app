@@ -7,8 +7,8 @@ Add your mongoDB URI and Google OAuth credentials to the config.env file <br> <b
 config.env dosyasina mongoDB URI ve Google OAuth kimlik bilgilerinizi ekleyin.
 
 # App Demo
-
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](http://story-app-demo.herokuapp.com/)
+# App Demo
+<a href="http://story-app-demo.herokuapp.com/">App Demo</a>
 
 ```
 # Install dependencies
